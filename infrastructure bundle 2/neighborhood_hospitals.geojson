@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "sql_statement",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "blockid20": [ "120010015141004" ], "osm_id": null, "hospital_name": null, "pop_low_stress": 7224, "pop_high_stress": 37243, "pop_score": 0.19396933651961443 }, "geometry": { "type": "Point", "coordinates": [ -82.363997436060586, 29.632406813505337 ] } },
+{ "type": "Feature", "properties": { "id": 3, "blockid20": [ "120010016052007" ], "osm_id": null, "hospital_name": null, "pop_low_stress": 1392, "pop_high_stress": 16856, "pop_score": 0.082581869957285239 }, "geometry": { "type": "Point", "coordinates": [ -82.388860312444365, 29.654747460194049 ] } },
+{ "type": "Feature", "properties": { "id": 4, "blockid20": [ "120010017023015", "120010017023017", "120010017023018" ], "osm_id": null, "hospital_name": null, "pop_low_stress": 342, "pop_high_stress": 4700, "pop_score": 0.072765957446808513 }, "geometry": { "type": "Point", "coordinates": [ -82.411123283319839, 29.661371031253061 ] } },
+{ "type": "Feature", "properties": { "id": 1, "blockid20": [ "120010008091002", "120010009021020", "120010009021017", "120010009021015", "120010009021025", "120010009021019", "120010009021024", "120010008091015" ], "osm_id": null, "hospital_name": null, "pop_low_stress": 16502, "pop_high_stress": 50794, "pop_score": 0.32488089144387133 }, "geometry": { "type": "Point", "coordinates": [ -82.345070330956105, 29.638370585958423 ] } },
+{ "type": "Feature", "properties": { "id": 5, "blockid20": [ "120010018112032" ], "osm_id": 12278430329, "hospital_name": "Ageless Spa Center", "pop_low_stress": 337, "pop_high_stress": 337, "pop_score": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -82.3943817, 29.6889796 ] } }
+]
+}
