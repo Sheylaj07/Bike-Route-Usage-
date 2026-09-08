@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "sql_statement",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "blockid20": [ "120010009021020" ], "osm_id": 4249724476, "dentists_name": "College of Dentistry", "pop_low_stress": 13036, "pop_high_stress": 43948, "pop_score": 0.29662328206061711 }, "geometry": { "type": "Point", "coordinates": [ -82.345096100000021, 29.6390372 ] } },
+{ "type": "Feature", "properties": { "id": 2, "blockid20": [ "120010015224012" ], "osm_id": 10119362751, "dentists_name": "Aspen Dental", "pop_low_stress": 1929, "pop_high_stress": 26469, "pop_score": 0.072877705995693071 }, "geometry": { "type": "Point", "coordinates": [ -82.3810668, 29.6205843 ] } },
+{ "type": "Feature", "properties": { "id": 3, "blockid20": [ "120010016054001" ], "osm_id": 4158662944, "dentists_name": "Aspen Dental", "pop_low_stress": 3421, "pop_high_stress": 8487, "pop_score": 0.40308707434900437 }, "geometry": { "type": "Point", "coordinates": [ -82.4167349, 29.6592244 ] } }
+]
+}
